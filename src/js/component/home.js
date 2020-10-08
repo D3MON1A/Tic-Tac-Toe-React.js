@@ -34,7 +34,7 @@ export class Home extends React.Component {
 
 	render() {
 		return (
-			<div className="text-center mt-5">
+			<div id="container" className="text-center mt-5">
 				<div className="game-row">
 					<div
 						className="cell"
